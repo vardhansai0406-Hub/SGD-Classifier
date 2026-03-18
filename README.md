@@ -20,6 +20,7 @@ Developed by:
 RegisterNumber:  
 */
 ```
+```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: ADITHYA NM 
@@ -108,7 +109,7 @@ pred = model.predict(new_student_scaled)
 print("\nPredicted Status:", pred[0])
 ## Output ##
 ![WhatsApp Image 2026-02-11 at 11 32 09 AM](https://github.com/user-attachments/assets/715e1de3-9436-440b-ab1b-a59b925d960f)
-
+```
 
 
 ## Result:
